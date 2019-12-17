@@ -60,7 +60,7 @@ native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, 
 Predicting the probability that a diagnosed breast cancer case is malignant or benign based on Wisconsin dataset from UCI repository.
 
 Data Set Information:
-Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself: 
+Samples arrive periodically as Dr. Wolberg reports his clinical cases. The database therefore reflects this chronological grouping of the data. This grouping information appears immediately below, having been removed from the data itself.
 
 Group 1 367 instances (January 1989) 
 Group 2 70 instances (October 1989) 
