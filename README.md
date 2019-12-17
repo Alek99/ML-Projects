@@ -32,6 +32,7 @@ Attribute Information:
 
 # Project 3 Income Prediction
 ![alt text](https://github.com/Alek99/ML-Projects/blob/master/front_page.png)
+
 Prediction task is to determine whether a person makes over 50K a year. 
 
 Data Set Information:
@@ -93,7 +94,7 @@ Attribute Information:
 11. Class: (2 for benign, 4 for malignant)
 
 # Project 5 Solar Flare Data Set 
-![alt text](![alt text](https://github.com/Alek99/ML-Projects/blob/master/71j1oOnmpCL._SY450_.jpg))
+![alt text](![alt text](https://github.com/Alek99/ML-Projects/blob/master/Carrington-Event-e1550694799691-768x432.jpg))
 Data Set Information:
 
 Notes: 
