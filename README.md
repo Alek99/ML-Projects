@@ -70,7 +70,7 @@ Group 5 48 instances (August 1990)
 Group 6 49 instances (Updated January 1991) 
 Group 7 31 instances (June 1991) 
 Group 8 86 instances (November 1991) 
------------------------------------------ 
+
 Total: 699 points (as of the donated datbase on 15 July 1992) 
 
 Attribute Information:
