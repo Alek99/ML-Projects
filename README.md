@@ -28,7 +28,6 @@ Attribute Information:
 -- Iris Virginica
 
 # Project 3 Income Prediction
-![alt text](https://github.com/Alek99/ML-Projects/blob/master/front_page.png)
 
 Prediction task is to determine whether a person makes over 50K a year. 
 
@@ -92,8 +91,8 @@ Attribute Information:
 
 # Project 5 Solar Flare Data Set 
 ![alt text](![alt text](https://github.com/Alek99/ML-Projects/blob/master/Carrington-Event-e1550694799691-768x432.jpg))
-Data Set Information:
 
+Data Set Information:
 Notes: 
 -- The database contains 3 potential classes, one for the number of times a certain type of solar flare occured in a 24 hour period. 
 -- Each instance represents captured features for 1 active region on the sun. 
