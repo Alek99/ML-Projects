@@ -31,7 +31,7 @@ Attribute Information:
 ![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9ooGklLzmAhULsJ4KHdyoBWsQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.chicagonow.com%2Fchicago-garden%2F2009%2F05%2Fblooming-in-my-garden-52709%2F&psig=AOvVaw37-EV0lp6bYf4tI-9Myx5E&ust=1576654030451525)
 
 # Project 3 Income Prediction
-![alt text]()
+![alt text](https://github.com/Alek99/ML-Projects/blob/master/front_page.png)
 Prediction task is to determine whether a person makes over 50K a year. 
 
 Data Set Information:
@@ -60,6 +60,8 @@ native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, 
 
 
 # Project 4 Breast Cancer Wisconsin (Original) Data Set 
+![alt text](https://github.com/Alek99/ML-Projects/blob/master/71j1oOnmpCL._SY450_.jpg)
+
 Predicting the probability that a diagnosed breast cancer case is malignant or benign based on Wisconsin dataset from UCI repository.
 
 Data Set Information:
@@ -91,6 +93,7 @@ Attribute Information:
 11. Class: (2 for benign, 4 for malignant)
 
 # Project 5 Solar Flare Data Set 
+![alt text](![alt text](https://github.com/Alek99/ML-Projects/blob/master/71j1oOnmpCL._SY450_.jpg))
 Data Set Information:
 
 Notes: 
