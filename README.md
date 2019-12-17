@@ -1,4 +1,4 @@
-# ML-Projects
+# ML-Projects Aleksander Petuskey
 
 # Project 1 Credit Card Fraud Detection
 Anonymized credit card transactions labeled as fraudulent or genuine.
