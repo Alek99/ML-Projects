@@ -94,6 +94,7 @@ Attribute Information:
 ![](https://github.com/Alek99/ML-Projects/blob/master/Carrington-Event-e1550694799691-768x432.jpg)
 
 Data Set Information:
+
 Notes: 
 -- The database contains 3 potential classes, one for the number of times a certain type of solar flare occured in a 24 hour period. 
 -- Each instance represents captured features for 1 active region on the sun. 
