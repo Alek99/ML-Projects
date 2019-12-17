@@ -1,4 +1,4 @@
-# ML-Projects Aleksander Petuskey
+# ML-Projects Summary
 
 # Project 1 Credit Card Fraud Detection
 ![alt text](https://github.com/Alek99/ML-Projects/blob/master/hack-3671982_1920-1-1.jpg)
