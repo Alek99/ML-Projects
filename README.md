@@ -90,7 +90,7 @@ Attribute Information:
 11. Class: (2 for benign, 4 for malignant)
 
 # Project 5 Solar Flare Data Set 
-![alt text](![alt text](https://github.com/Alek99/ML-Projects/blob/master/Carrington-Event-e1550694799691-768x432.jpg))
+![](![alt text](https://github.com/Alek99/ML-Projects/blob/master/Carrington-Event-e1550694799691-768x432.jpg))
 
 Data Set Information:
 Notes: 
