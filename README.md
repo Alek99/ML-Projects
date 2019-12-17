@@ -27,9 +27,6 @@ Attribute Information:
 -- Iris Versicolour 
 -- Iris Virginica
 
-
-![alt text](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi9ooGklLzmAhULsJ4KHdyoBWsQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.chicagonow.com%2Fchicago-garden%2F2009%2F05%2Fblooming-in-my-garden-52709%2F&psig=AOvVaw37-EV0lp6bYf4tI-9Myx5E&ust=1576654030451525)
-
 # Project 3 Income Prediction
 ![alt text](https://github.com/Alek99/ML-Projects/blob/master/front_page.png)
 
