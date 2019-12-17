@@ -11,6 +11,7 @@ It contains only numerical input variables which are the result of a PCA transfo
 
 # Project 2 Iris Data Set 
 ![alt text](https://github.com/Alek99/ML-Projects/blob/master/iris-cristata-dwarf-crested-iris-purple-flower-shutterstock-com_12594.jpg)
+
 Predicted attribute: class of iris plant. 
 
 Data Set Information:
